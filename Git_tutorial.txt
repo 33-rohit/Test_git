@@ -1,0 +1,1 @@
+Version Control : is a system that records changes to a file or set of files over the time so you can recall specific version later. These versions are recorded in a repository and can be recalled from the same. These are local , Centralized and Distributed Version Control System.
