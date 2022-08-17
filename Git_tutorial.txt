@@ -8,4 +8,6 @@ Reduce Downtime:Reverse faulty updates and save time.
 Analyse Project:Compare and analyse project.
 
 
-this is to check diff file from indexed file.
+This is to check diff file from indexed file.
+
+This changes is done after adding the file to staged area , now checking diff command with --cached .
