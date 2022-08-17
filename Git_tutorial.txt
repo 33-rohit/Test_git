@@ -6,8 +6,4 @@ Roll Backs:Easy rollback from current version.
 Collaboration:Shared Worksapce & real-time updates.
 Reduce Downtime:Reverse faulty updates and save time.
 Analyse Project:Compare and analyse project.
-
-
-This is to check diff file from indexed file.
-
-This changes is done after adding the file to staged area , now checking diff command with --cached .
+Test
