@@ -1,6 +1,6 @@
 Version Control : is a system that records changes to a file or set of files over the time so you can recall specific version later. These versions are recorded in a repository and can be recalled from the same. These are local , Centralized and Distributed Version Control System.
 
-Why VS:
+Why VCS::
 Manage version :All versions of code are preserved. 
 Roll Backs:Easy rollback from current version.
 Collaboration:Shared Worksapce & real-time updates.
